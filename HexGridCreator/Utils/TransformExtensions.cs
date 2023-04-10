@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace HexGridCreator.Utils
 {
-    public static class TransformExtensions
+    internal static class TransformExtensions
     {
         public static List<Transform> GetAllChildrenTransform(this Transform root)
         {

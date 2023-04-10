@@ -1,6 +1,6 @@
 namespace HexGridCreator.Utils
 {
-    public enum HexRadius
+    internal enum HexRadius
     {
         Outer,
         Inner

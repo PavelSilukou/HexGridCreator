@@ -1,6 +1,6 @@
 namespace HexGridCreator.Utils
 {
-    public enum HexOrientation
+    internal enum HexOrientation
     {
         FlatTop,
         PointyTop
